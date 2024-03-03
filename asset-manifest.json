@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85552195.css",
+    "main.js": "/static/js/main.74e7e32c.js",
+    "static/media/background_2.jpg": "/static/media/background_2.86835fd30570a55292ae.jpg",
+    "static/media/background_1.jpg": "/static/media/background_1.23487a7936d4942af76d.jpg",
+    "static/media/background_3.jpg": "/static/media/background_3.23487a7936d4942af76d.jpg",
+    "static/media/collection.png": "/static/media/collection.794bf1271507e025a832.png",
+    "static/media/art.png": "/static/media/art.86f7d7468c0aaf773b84.png",
+    "static/media/fund.png": "/static/media/fund.40c8bb2efcadc13f9576.png",
+    "static/media/collection_inscription.png": "/static/media/collection_inscription.2f756e73c900e5af537c.png",
+    "static/media/phone.png": "/static/media/phone.744d6a744a3f52eeba01.png",
+    "static/media/art_inscription.png": "/static/media/art_inscription.ac1a71804cdd7418a135.png",
+    "static/media/startup_1.png": "/static/media/startup_1.3cb9c4e8f8b551ba41e5.png",
+    "static/media/pe_inscription.png": "/static/media/pe_inscription.475ed8a17cf5273ffd6f.png",
+    "static/media/startup_inscription.png": "/static/media/startup_inscription.c0ca760b781245f816f6.png",
+    "static/media/twitter.png": "/static/media/twitter.3c894c032ec1b5d8a6d0.png",
+    "static/media/instagram.png": "/static/media/instagram.84249ba802db22c2e250.png",
+    "static/media/Logo.png": "/static/media/Logo.65eaa99bfbed125e56a4.png",
+    "static/media/background-image.jpg": "/static/media/background-image.b48dba16cb71665d8a9e.jpg",
+    "index.html": "/index.html",
+    "main.85552195.css.map": "/static/css/main.85552195.css.map",
+    "main.74e7e32c.js.map": "/static/js/main.74e7e32c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85552195.css",
+    "static/js/main.74e7e32c.js"
+  ]
+}
